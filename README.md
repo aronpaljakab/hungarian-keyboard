@@ -16,14 +16,17 @@ sudo cp -r HUN-Personal.bundle "/Library/Keyboard Layouts/"
 Restart is required for the keyboard layout to show up in the Keyboard menu.
 
 ## Usage
-Layout will be found under the ```Others``` keyboard layout category.
+Layout will be found under the ```Hungarian``` keyboard layout category.
 
 
 1. Navigate to ```System Settings/Keyboard```
 2. Under ```Text Input/Input Sources``` press button ```Edit...```
 3. Click the button ```+``` in the bottom left corner.
-4. Find the ```Others``` option (bottom of the list).
+4. Find the ```Hungarian``` option (bottom of the list).
 5. Select the installed layout and press ```Add```.
+
+## Configuration
+When updating the keyboard layout, the language metadata can be set for the layout. If none is selected, the layout will appear under the ```Others``` option. In every other case look under the given language option.
 
 ## Thanks
 Special thanks for the original idea for [@gaborsomogyi](https://github.com/gaborsomogyi).
